@@ -32,7 +32,7 @@ Este projeto é um sistema de cadastro em C#, feito no console, para registrar, 
   - `try-catch` para validar entradas numéricas
 
 ## 📂 Estrutura do projeto
-/Projeto
+Projeto
 ├── Program.cs
 ├── Pessoa.cs
 └── PessoaJuridica.cs
